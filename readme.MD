@@ -25,3 +25,6 @@
 
 ## squash branch
    first
+   two
+   three
+   four
