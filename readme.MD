@@ -23,3 +23,4 @@
     oil added
     onion added
     pista added
+    kaju added
