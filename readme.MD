@@ -11,3 +11,8 @@
     karam added
     powder added to dosa
     ghee added
+
+## paneer dosa
+    paneer
+    dosa batter
+    ghee added to dosa
