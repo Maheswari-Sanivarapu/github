@@ -22,3 +22,4 @@
     dosa batter
     oil added
     onion added
+    pista added
