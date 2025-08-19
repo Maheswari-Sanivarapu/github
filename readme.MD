@@ -10,3 +10,4 @@
     oil added to dosa
     karam added
     powder added to dosa
+    ghee added
