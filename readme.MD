@@ -16,3 +16,6 @@
     paneer
     dosa batter
     ghee added to dosa
+
+## Mushroom dosa
+    mushroom pieces
